@@ -1,6 +1,11 @@
 # simpsons-quiz-oop-dom-js
 Aplicação web interativa desenvolvida com HTML, CSS e JavaScript que identifica com qual personagem da série The Simpsons o usuário mais se identifica. Utiliza orientação a objetos, manipulação do DOM e lógica de pontuação dinâmica para fornecer resultados em tempo real.
 
+
+https://pedropcamaral.github.io/simpsons-quiz-oop-dom-
+
+
+
 🎮 Simpsons Quiz – Descubra Qual Personagem Você É
 Projeto desenvolvido em HTML, CSS e JavaScript puro que permite ao usuário descobrir com qual personagem da série The Simpsons ele mais se identifica, com base em um questionário interativo.
 ________________________________________
